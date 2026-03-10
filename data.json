@@ -1,1 +1,5 @@
-{"message":"Помилка ідентифікатора.","httpStatus":"404 NOT_FOUND","timestamp":"2026-03-10T15:21:47.2033175+02:00"}
+[
+{ 
+"r030":840,"txt":"Долар США","rate":36.5686,"cc":"USD","exchangedate":"01.10.2023","special":null
+ }
+]
